@@ -3,6 +3,7 @@ import sys
 
 def factorial(n):
     """finds the factorial
+    
     :n: is the number
     :return: returns the factorial"""
     if n == 0:
